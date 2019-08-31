@@ -1,8 +1,4 @@
-@import
-@import
-@import
-	url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap')
-	;
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
 
 * {
 	box-sizing: border-box;
@@ -12,7 +8,7 @@ body, html {
 	margin: 0;
 	-webkit-overflow-scrolling: touch;
 	height: 100%;
-	font-family: 'Roboto Mono', monospace;
+	font-family: 'Dosis', sans-serif;
 }
 
 a {
@@ -167,6 +163,7 @@ ul {
 	font-size: 36px;
 	width: 60%;
 	margin: 0 auto;
+    font-weight: 400 !important;
 }
 
 .wrap-title-site, .wrap-title-site-signup {
