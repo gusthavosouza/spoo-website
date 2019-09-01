@@ -343,53 +343,6 @@ ul {
 	box-sizing: border-box;
 }
 
-.bg-img {
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-
-.game-1 {
-	background-image: url('../img/party.jpg');
-}
-
-.game-2 {
-	background-image: url('../img/game_2.jpg');
-}
-
-.trailer-1 {
-	background-image: url('../img/trailer.png');
-}
-
-.bg-news {
-	background-image: url('../img/br_news.png');
-}
-
-.bg-projects {
-	background-image: url('../img/projects_bg.png');
-}
-
-.project-bg {
-	background-image: url('../img/projects_bg.jpg');
-}
-
-.bg-arqu {
-	background-image: url('../img/arqu.jpg');
-}
-
-.bg-ferro {
-	background-image: url('../img/barra_ferro.jpg');
-}
-
-
-.bg-eng {
-	background-image: url('../img/eng.jpg');
-}
-
-.bg-struc {
-	background-image: url('../img/bg_struc.jpg');
-}
-
 .long-text {
 	line-height: 1.5em;
 }
