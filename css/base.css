@@ -405,7 +405,7 @@ footer .social {
 	padding: 45px 0;
 }
 
-.page-header::before, .project::before, .img-op::before {
+.page-header::before, .project::before {
 	content: '';
 	display: block;
 	position: absolute;
